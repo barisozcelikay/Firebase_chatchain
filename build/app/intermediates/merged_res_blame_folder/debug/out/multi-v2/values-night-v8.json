@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ariftanjuozcelikay/Desktop/chatchain/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/ariftanjuozcelikay/Desktop/Firebase_chatchain/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ariftanjuozcelikay/Desktop/chatchain/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/ariftanjuozcelikay/Desktop/Firebase_chatchain/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

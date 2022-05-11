@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ariftanjuozcelikay/Desktop/chatchain/build/flutter_plugin_android_lifecycle/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/ariftanjuozcelikay/Desktop/Firebase_chatchain/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/ariftanjuozcelikay/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/values-vi/values-vi.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/ariftanjuozcelikay/Desktop/chatchain/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/values-vi/values-vi.xml",
+            "outputFile": "/Users/ariftanjuozcelikay/Desktop/Firebase_chatchain/build/flutter_plugin_android_lifecycle/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/ariftanjuozcelikay/.gradle/caches/transforms-2/files-2.1/c1ebda589683e9beaa06b540aac78854/core-1.6.0/res/values-vi/values-vi.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ariftanjuozcelikay/Desktop/chatchain/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/Users/ariftanjuozcelikay/Desktop/Firebase_chatchain/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/Users/ariftanjuozcelikay/.gradle/caches/transforms-2/files-2.1/ed283f8a537fc76ff681acbed0a18d87/appcompat-1.4.1/res/values-ta/values-ta.xml",
