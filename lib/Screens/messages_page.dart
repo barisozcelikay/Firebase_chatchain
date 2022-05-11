@@ -81,7 +81,7 @@ class _MessagesPageState extends State<MessagesPage> {
                   style: TextStyle(fontSize: 16),
                 ),
                 Text(
-                  "Active 3m ago",
+                  "Active 10m ago",
                   style: TextStyle(fontSize: 12),
                 )
               ],
